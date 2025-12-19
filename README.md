@@ -139,3 +139,9 @@ This section contains the functions that are essential for running the scripts b
 
 This project is licensed under the terms of the [GNU General Public License v3.0 license](LICENSE).
 
+
+## **Cite**
+If you use this software, please cite the following paper:
+
+- García-San-Martín, N., Bethlehem, R.A.I., Mihalik, A. et al. Molecular and micro-architectural mapping of gray matter alterations in psychosis. Mol Psychiatry 30, 1287–1296 (2025). https://doi.org/10.1038/s41380-024-02724-0
+
