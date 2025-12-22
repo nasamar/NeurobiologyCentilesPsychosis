@@ -144,5 +144,5 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 If you use this software, please cite the following paper and software:
 
 - García-San-Martín, N., Bethlehem, R.A.I., Mihalik, A. et al. Molecular and micro-architectural mapping of gray matter alterations in psychosis. Mol Psychiatry 30, 1287–1296 (2025). https://doi.org/10.1038/s41380-024-02724-0.
-- Natalia-García-San-Martín, & Rafael Romero-Garcia. (2025). NeuroimagingBrainNetworks/NeurobiologyCentilesPsychosis: v1.0.0-alpha. Zenodo. https://doi.org/10.5281/zenodo.17988808.
+- Natalia-García-San-Martín, & Rafael Romero-García. (2025). NeuroimagingBrainNetworks/NeurobiologyCentilesPsychosis: v1.0.0-alpha. Zenodo. https://doi.org/10.5281/zenodo.17988808.
 
