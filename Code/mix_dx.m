@@ -7,18 +7,18 @@
 
 % This file is part of Neurobiology Centiles Psychosis toolkit.
 %
-% Neurobiology Centiles Mapping toolkit is free software: 
+% Neurobiology Centiles Psychosis toolkit is free software: 
 % you can redistribute it and/or modify it under the terms of the 
 % GNU General Public License as published by the Free Software Foundation, 
 % either version 3 of the License, or (at your option) any later version.
 %
-% Neurobiology Centiles Mapping toolkit is distributed in the hope that 
+% Neurobiology Centiles Psychosis toolkit is distributed in the hope that 
 % it will be useful, but WITHOUT ANY WARRANTY; without even the implied 
 % warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 % GNU General Public License for more details.
 %
 % You should have received a copy of the GNU General Public License
-% along with Neurobiology Centiles Mapping toolkit. If not, see 
+% along with Neurobiology Centiles Psychosis toolkit. If not, see 
 % <https://www.gnu.org/licenses/>.
 
 function [selection_dx_1,selection_dx_2,ratio_1,ratio_2] = mix_dx(centiles_dx_1,centiles_dx_2)
@@ -54,5 +54,6 @@ function [selection_dx_1,selection_dx_2,ratio_1,ratio_2] = mix_dx(centiles_dx_1,
     ratio_1 = numel(dx_1_index_1)/size(selection_dx_1,1);
     ratio_2 = numel(dx_1_index_2)/size(selection_dx_2,1);
 end
+
 
 
